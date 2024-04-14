@@ -18,6 +18,7 @@ You can view this site [here](https://amulyamachhan.github.io/currencyConverter/
 - React
 - Vite
 - JavaScript (ES6+)
+- Tailwind CSS
 - HTML5
 - CSS3
 
